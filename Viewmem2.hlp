@@ -1,0 +1,1 @@
+          ***Help***° Control + H = This help.° Control + O = Options Menu.  °      Escape = Quit.°-------------------------------° When setting the memory° segment, add the H character° at the end of the address if° it is a hexadecimal value.° If the hexadecimal numbers ° A,B,C,D,E or F are used in° the segment address, the° program will assume the° address is hexadecimal.°
